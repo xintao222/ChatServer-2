@@ -1,4 +1,8 @@
 CryptoChatServer
 ================
 
-Encrypted Chat Server - Work in Progress
+## Tech Stack
+Java6
+TCP Sockets
+
+Find client at https://github.com/zainadil/ChatClient
